@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 Good Bye
-=======
-Hello this is me
-this is also me
-next line is not by me 
->>>>>>> 9f66898bec9004f060948a8b9819bb818f0ddff1
