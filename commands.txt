@@ -1,6 +1,6 @@
 1. git init                             -> to initialise the folder for git
 2. git remote add origin <repo-link>    -> (to link the folder to a repo)
 3. git add <file-name> or git add .     -> (to add a specific file or all files i.e. stage changes)
-4. git commit -m "<commit>"             -> (commit all changes that were staged/added)
+4. git commit -m "<commit-name>"        -> (commit all changes that were staged/added)
 5. git push -u origin master            -> (push to origin repo master branch)
 6.
